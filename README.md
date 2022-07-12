@@ -1,8 +1,13 @@
 # project-akhir-program-monitoring
+
+
 Nama : Rio Galih Satria
+
 Nim : 21524015
 
 ---------------------------Program Monitoring Pantai---------------------------
+
+
 Program ini dibuat dengan python dengan menggunakan module
 - Matplotlib (Untuk membuat diagram)
 - Numpy (Untuk penggunaan matplotlib)
